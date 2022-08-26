@@ -1,0 +1,21 @@
+/*@import url('https://www.fontshare.com/fonts/satoshi');*/
+
+body {
+    padding: 20px;
+    background-color: #32263e;
+    font-family: "Titillium Web", "sans-serif";
+}
+h1,h2,h3,h4,h5{
+    font-family: "Titillium Web";
+    font-weight: 700;
+}
+
+button {
+    margin-right: 10px;
+}
+.card, .card-panel{
+    border-radius: 30px;
+}
+.border-white{
+    border-color: #ffffff;
+}
